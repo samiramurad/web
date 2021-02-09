@@ -10,14 +10,14 @@ h1 {
   font-color: slategray;
 }
 
-color {
+background {
   border-width: medium;
 }
 
-color {
+background {
   border-color: lavender;
 }
 
-color {
+background {
  border-style: solid;
 }
