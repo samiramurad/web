@@ -2,18 +2,18 @@ body {
 background-color: lavenderblush;
 }
 
-border {
-  border-color: lavender;
+ font {
+  font-style: italic;
+}
+
+font {
+  font-color: slategray;
 }
 
 border {
   border-width: medium;
 }
 
-  font {
-  font-style: italic;
-}
-
-font {
-  font-color: slategray;
+border {
+  border-color: lavender;
 }
