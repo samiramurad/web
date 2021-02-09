@@ -7,7 +7,7 @@ background-color: lavenderblush;
 }
 
 h1 {
-  font-color: pink;
+  font-color: slategray;
 }
 
 color {
@@ -16,4 +16,8 @@ color {
 
 color {
   border-color: lavender;
+}
+
+color {
+ border-style: solid;
 }
