@@ -1,3 +1,15 @@
 body {
-background-color: lightskyblue;
+background-color: lavenderblush;
+}
+
+border {
+  border-color: lavender;
+}
+
+font {
+  font-style: Old-style
+}
+
+font {
+  font-color: #67A4B1;
 }
