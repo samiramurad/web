@@ -2,20 +2,13 @@ body {
 background-color: lavenderblush;
 }
 
-font-family {
-  font-size: medium;
+p {
   font-style: Apple Chancery, cursive;
   font-color: steelblue
 }
 
-body {
+img {
   border-width: thick;
-}
-
-body {
   border-color: midnightblue;
-}
-
-body {
- border-style: solid;
+  border-style: solid;
 }
