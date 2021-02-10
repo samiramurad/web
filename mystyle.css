@@ -4,11 +4,16 @@ background-color: lavenderblush;
 
 p {
   font-family: Apple Chancery;
-  font-color: steelblue;
+  color: steelblue;
 }
 
 body {
   border-width: thick;
   border-color: midnightblue;
   border-style: solid;
+}
+
+li {
+  font-family: Apple Chancery;
+  color: steelblue;
 }
