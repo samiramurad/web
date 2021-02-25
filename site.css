@@ -1,3 +1,22 @@
+body {
+background-color: lavenderblush;
+}
+
+p {
+  font-family: Apple Chancery;
+  color: steelblue;
+}
+
+body {
+  border-width: thick;
+  border-color: midnightblue;
+  border-style: solid;
+}
+
+li {
+  font-family: Apple Chancery;
+  color: steelblue;
+}
 
  <ul>
      <li><a href="site.html">About This Webpage</a></li> 
@@ -5,3 +24,11 @@
   <li><a href="subjectpage2.html">"The Science of Breakable Things" by Tae Keller</a></li>
   <li><a href="subjectpage3.html">"The Fault In Our Stars" by John Green</a></li>
 </ul>
+
+ul {
+  list-style-type: none;
+  padding: 10px 10px 10px 10px;
+  clear:both;
+  border-bottom:2px solid black;
+  margin-bottom:50px;
+}
