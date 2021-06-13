@@ -1,0 +1,27 @@
+body {
+Background-color: rosybrown;
+}
+
+P { 
+font-family: Papyrus;
+color: mediumpurple;
+}
+
+body  {
+border-width: thick;
+border-color: navy;
+border-style: solid;
+}
+
+li {
+font-family: Papyrus;
+color: mediumpurple;
+}
+
+ul {
+  list-style-type: none;
+  padding: 10px 10px 10px 10px;
+  clear:both;
+  border-bottom:2px solid black;
+  margin-bottom:50px;
+}
